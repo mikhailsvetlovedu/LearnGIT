@@ -1,2 +1,3 @@
-"hello git" 
-"git is awesome" 
+"hello git!" 
+"git is awesome." 
+"third line"
